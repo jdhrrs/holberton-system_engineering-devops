@@ -1,3 +1,2 @@
 #!/bib/bash
-<<<<<<< HEAD
-cp -u *.html .. 
+cp -u *.html ..
