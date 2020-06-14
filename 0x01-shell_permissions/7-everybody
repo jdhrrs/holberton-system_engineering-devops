@@ -1,0 +1,2 @@
+#!/bin/bssh
+chmod ugo+x hello 
