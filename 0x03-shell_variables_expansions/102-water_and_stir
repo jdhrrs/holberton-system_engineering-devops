@@ -1,3 +1,2 @@
 #!/bin/bash
 tr water 01234 $WATER | $((#5$?)) | tr stir. 01234 $STIR | 
-
