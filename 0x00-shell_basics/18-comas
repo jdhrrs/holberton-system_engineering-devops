@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ls -mpa 
-=======
-ls -pam
->>>>>>> 558028c9a5d21c5547b8d4b88f8336d3a83d3caf
+ls -mpa
